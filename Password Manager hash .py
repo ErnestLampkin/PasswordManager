@@ -144,6 +144,3 @@ def main():
             print("Invalid choice\n")
 
 main()
-
-
-#new random stuff
